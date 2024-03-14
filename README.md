@@ -1,30 +1,14 @@
-# React + TypeScript + Vite
+# How I Rebuild This Apple TV+ Page With Framer Motion And TailwindCSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Read the article and watch the video here:
 
-Currently, two official plugins are available:
+https://www.frontend.fyi/v/rebuilding-the-apple-tv-plus-website-with-framer-motion-and-tailwind
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Or directly on YouTube:
+https://youtu.be/TmelPbKsFWo
 
-## Expanding the ESLint configuration
+## Running this project
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Run `yarn` or `npm i` to install the project. Next run `yarn dev` or `npm run dev` to view the project by clicking the link in the terminal.
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+See the [LICENSE](/LICENSE.md) for more information about reusing this code.
