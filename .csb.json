@@ -9,8 +9,8 @@
     "src/components/section/usps.tsx",
     "src/components/section/video-carousel.tsx",
     "tailwind.config.cjs",
-    "movies.ts",
-    "styles.css"
+    "src/movies.ts",
+    "src/styles.css"
   ],
   "activeFile": "src/App.tsx",
   "template": "vite-react-ts",
