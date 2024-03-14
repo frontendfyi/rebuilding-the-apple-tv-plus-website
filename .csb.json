@@ -1,13 +1,13 @@
 {
   "openFiles": [
     "src/App.tsx",
-    "src/button.tsx",
-    "src/container.tsx",
-    "src/fade-in.tsx",
-    "src/header.tsx",
-    "src/section/hero.tsx",
-    "src/section/usps.tsx",
-    "src/section/video-carousel.tsx",
+    "src/components/button.tsx",
+    "src/components/container.tsx",
+    "src/components/fade-in.tsx",
+    "src/components/header.tsx",
+    "src/components/section/hero.tsx",
+    "src/components/section/usps.tsx",
+    "src/components/section/video-carousel.tsx",
     "tailwind.config.cjs",
     "movies.ts",
     "styles.css"
