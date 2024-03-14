@@ -20,7 +20,7 @@ export const Hero = () => {
       >
         <img
           className="sticky top-0 h-screen w-full object-cover"
-          src="/apple-tv-rebuild/posters/napoleon.webp"
+          src="/img/apple-tv-rebuild/posters/napoleon.webp"
         />
       </motion.div>
       <Container className="relative z-10 h-[--hero-height] pb-7">
