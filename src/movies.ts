@@ -4,13 +4,19 @@ export type Movie = {
 };
 
 export const movies = [
-  { poster: "/posters/airplane.webp", name: "Airplane" },
-  { poster: "/posters/family-man.webp", name: "Family man" },
-  { poster: "/posters/laboratory.webp", name: "Laboratory" },
-  { poster: "/posters/napoleon.webp", name: "Napoleon" },
-  { poster: "/posters/person-in-darkness.webp", name: "Person in Darkness" },
-  { poster: "/posters/scary-building.webp", name: "Scary Building" },
-  { poster: "/posters/stars.webp", name: "Stars" },
+  { poster: "/apple-tv-rebuild/posters/airplane.webp", name: "Airplane" },
+  { poster: "/apple-tv-rebuild/posters/family-man.webp", name: "Family man" },
+  { poster: "/apple-tv-rebuild/posters/laboratory.webp", name: "Laboratory" },
+  { poster: "/apple-tv-rebuild/posters/napoleon.webp", name: "Napoleon" },
+  {
+    poster: "/apple-tv-rebuild/posters/person-in-darkness.webp",
+    name: "Person in Darkness",
+  },
+  {
+    poster: "/apple-tv-rebuild/posters/scary-building.webp",
+    name: "Scary Building",
+  },
+  { poster: "/apple-tv-rebuild/posters/stars.webp", name: "Stars" },
 ];
 
 export const randomMoviesSet1 = movies
